@@ -1,4 +1,4 @@
-package com.example.motiondesign
+package com.connect.motiondesigns
 
 import com.connect.motiondesigns.extensions.println
 import com.connect.motiondesigns.service.processInputLines
